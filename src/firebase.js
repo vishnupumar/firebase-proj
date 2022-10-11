@@ -7,7 +7,7 @@ const firebaseConfig = {
   projectId: projectId,
   storageBucket: storageBucket,
   messagingSenderId: messagingSenderId,
-  appId:appId,
+  appId: appId,
 };
 
 // Initialize Firebase
